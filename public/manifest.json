@@ -1,0 +1,8 @@
+{
+  "short_name": "NumberConverter",
+  "name": "Number ConverterApp App",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
