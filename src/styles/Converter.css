@@ -1,0 +1,30 @@
+div {
+    text-align: center;
+    width: 100%;
+}
+
+h1 {
+    color: rgb(11, 170, 59);
+}
+
+.Symbol {
+    color: cadetblue;
+    font-size: 45px;
+}
+
+.Form input {
+    color: darkblue;
+    font-weight: bold;
+    font-size: 13px;
+}
+
+.Form input, select {
+    margin: 5px;
+    padding: 5px;
+}
+
+button {
+    color: darkblue;
+    font-size: 13px;
+    font-weight: bolder;
+}
